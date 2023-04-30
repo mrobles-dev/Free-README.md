@@ -1,0 +1,23 @@
+{
+  "name": "free-readme.md",
+  "version": "1.0.0",
+  "description": "This will generate a readme vai your command line !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrobles-dev/Free-README.md.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrobles-dev/Free-README.md/issues"
+  },
+  "homepage": "https://github.com/mrobles-dev/Free-README.md#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
