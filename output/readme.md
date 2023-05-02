@@ -1,10 +1,14 @@
 
- ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+ ![undefined](https://img.shields.io/badge/License-undefined-blue.svg)
 
-# milton
+# undefined
 
 ## Description
- fjdskajfldk
+ undefined 
+
+ See Github for more info:
+
+ [undefined](https://github.com/undefined)
 
 ## Installation
  undefined
@@ -20,19 +24,22 @@
 ## Usage  
 undefined
 
+
 ## Contributing
 undefined 
 
 ## Tests
-\`\`\`
-npm run test
-\`\`\`
+
+none
 
 ## Questions
-undefined
+Contact at:
+
+[miltonjrobles1996@gmail.com](mailto:miltonjrobles1996@gmail.com)
+
 
 ## License 
-MIT
-[![MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
+undefined
+[![undefined](https://img.shields.io/badge/License-undefined-blue.svg)]
 
 
