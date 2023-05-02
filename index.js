@@ -63,38 +63,38 @@ ${license}
 
 inquirer
   .prompt([
-    // {
-    //   type: "input",
-    //   message: "What is your Title?",
-    //   name: "title",
-    // },
+    {
+      type: "input",
+      message: "What is your Project Title?",
+      name: "title",
+    },
 
-    // {
-    //   type: "input",
-    //   message: "What is your description?",
-    //   name: "descr",
-    // },
-    // {
-    //   type: "list",
-    //   message: "What badges would you like to ?",
-    //   name: "license",
-    //   choices: ["MIT", "Boost", "BSD", "Apache", "BSD-2"],
-    // },
-    // {
-    //   type: "input",
-    //   message: "What would you like to say about the contributions?",
-    //   name: "usage",
-    // },
-    // {
-    //   type: "input",
-    //   message: "What would you like to say about the usage?",
-    //   name: "usage",
-    // },
-    // {
-    //   type: "input",
-    //   message: "What is your git?",
-    //   name: "git",
-    // },
+    {
+      type: "input",
+      message: "What is your description?",
+      name: "descr",
+    },
+    {
+      type: "list",
+      message: "What badges would you like to ?",
+      name: "license",
+      choices: ["MIT", "Boost", "BSD", "Apache", "BSD-2"],
+    },
+    {
+      type: "input",
+      message: "What would you like to say about the contributions?",
+      name: "contributing",
+    },
+    {
+      type: "input",
+      message: "What would you like to say about the usage?",
+      name: "usage",
+    },
+    {
+      type: "input",
+      message: "What is your Github username?",
+      name: "git",
+    },
     {
       type: "input",
       message: "What is your email?",
