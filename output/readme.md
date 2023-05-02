@@ -1,36 +1,37 @@
 
- ![undefined](https://img.shields.io/badge/License-undefined-blue.svg)
+ ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-# undefined
+# Hello World !
 
 ## Description
- undefined 
+ This shows a readme.md generated. 
 
  See Github for more info:
 
- [undefined](https://github.com/undefined)
+ [mrobles-dev](https://github.com/mrobles-dev)
 
 ## Installation
  undefined
 
 
 ## Table of contents 
+- [Title](#title)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Questions](#questions)
 - [License](#license)
 
 
 ## Usage  
-undefined
+You can create readme.md's with this!
 
 
 ## Contributing
-undefined 
+NA 
 
 ## Tests
 
-none
+npm run test
 
 ## Questions
 Contact at:
@@ -39,7 +40,7 @@ Contact at:
 
 
 ## License 
-undefined
-[![undefined](https://img.shields.io/badge/License-undefined-blue.svg)]
+MIT
+[![MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
 
 

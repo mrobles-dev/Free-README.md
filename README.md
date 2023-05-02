@@ -16,7 +16,12 @@ Right click on package.json file to select 'open integrated terminal' option. A 
 
 ## Usage 
 
--- insert video here --
+- Click link below to see full use.
+
+[Full video link](https://drive.google.com/file/d/1YgfGzox4nCK_nH3CXsR8rPrvlZslVENO/view)
+
+
+![alt text](./Untitled_%20May%202%2C%202023%2012_43%20AM.gif)
 
 ## License
 

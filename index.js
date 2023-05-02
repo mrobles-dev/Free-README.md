@@ -30,9 +30,10 @@ const readMe = ({
 
 
 ## Table of contents 
+- [Title](#title)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Questions](#questions)
 - [License](#license)
 
 
